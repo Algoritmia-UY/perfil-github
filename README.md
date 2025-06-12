@@ -1,6 +1,6 @@
 <!-- Imagen de cabecera -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400?text=Tu+Imagen+de+Cabecera" alt="Cabecera personalizada">
+  <img src="[https://via.placeholder.com/1200x400?text=Tu+Imagen+de+Cabecera](https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-screenshotsaturday-image_2937739.jpg)" alt="Cabecera personalizada">
 </p>
 
 <!-- Título principal -->
